@@ -1,4 +1,3 @@
-Certamente, aqui está um exemplo de um arquivo README para o código fornecido:
 
 ```markdown
 # Projeto IMRS Esporte
