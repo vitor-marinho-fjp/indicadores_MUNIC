@@ -1,5 +1,7 @@
 
 ```markdown
+
+```
 # Projeto IMRS Esporte
 
 Este projeto realiza análises e cálculos baseados em dados relacionados ao índice de desenvolvimento esportivo (IMRS) para municípios em Minas Gerais. O código está escrito em Python e utiliza as bibliotecas pandas e numpy para manipulação de dados.
@@ -7,11 +9,6 @@ Este projeto realiza análises e cálculos baseados em dados relacionados ao ín
 ## Pré-requisitos
 
 Certifique-se de ter Python instalado em seu ambiente. Você pode instalar as bibliotecas necessárias executando o seguinte comando:
-
-```bash
-pip install pandas numpy
-```
-
 ## Como Usar
 
 1. Clone este repositório:
