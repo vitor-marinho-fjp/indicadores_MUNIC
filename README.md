@@ -25,7 +25,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 3. Execute o script Python:
 
 ```bash
-python nome_do_script.py
+python indicadores.py
 ```
 
 4. Verifique o resultado exportado em "imrs_esporte_2021.xlsx" na pasta do projeto.
